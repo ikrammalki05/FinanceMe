@@ -1,0 +1,2 @@
+# Note: Le fichier pubspec.lock sera généré automatiquement lors du premier `flutter pub get`
+# Ce fichier est généré automatiquement par Flutter et ne doit pas être modifié manuellement.
