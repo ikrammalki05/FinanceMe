@@ -1,0 +1,26 @@
+{
+  "users": [],
+  "transactions": [
+    {
+      "id": "sample-tx-001",
+      "title": "Salaire (exemple json-server)",
+      "amount": 8000.0,
+      "type": "income",
+      "category": "salary",
+      "date": "2025-06-01T00:00:00.000",
+      "note": "Transaction de démonstration — Partie 2",
+      "userId": "replace-with-your-user-id"
+    },
+    {
+      "id": "sample-tx-002",
+      "title": "Loyer (exemple json-server)",
+      "amount": 2500.0,
+      "type": "expense",
+      "category": "housing",
+      "date": "2025-06-01T00:00:00.000",
+      "note": "Transaction de démonstration — Partie 2",
+      "userId": "replace-with-your-user-id"
+    }
+  ],
+  "budgets": []
+}
